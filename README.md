@@ -1,12 +1,11 @@
 # ☕ Coffee Sales Dashboard using Excel
 
-![Project Image](https://your-image-link-here.com)
-
 ## 📌 Project Overview
 This project analyzes **coffee sales data** using **Microsoft Excel**. It includes data cleaning, transformation, pivot tables, and an **interactive dashboard** to extract insights into **sales trends, customer behavior, and product preferences**.
 
 ## 🗆 Dashboard Preview
-![Dashboard Screenshot](https://your-image-link-here.com)
+![Screenshot 2025-02-28 114859](https://github.com/user-attachments/assets/e4f088f9-142e-4676-927e-903a4ba377ba)
+
 
 ## 🎯 Features
 
